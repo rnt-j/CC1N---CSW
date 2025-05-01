@@ -1,0 +1,17 @@
+.caxa{
+border-width: 10px;
+padding: 10px;
+background-image:linear-gradient(white, blue, red);
+border-radius: 10px;
+
+
+
+
+}
+.aa{
+display: flex;
+align-items: center;
+
+
+
+}
